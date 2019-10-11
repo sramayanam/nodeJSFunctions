@@ -1,0 +1,17 @@
+{
+  "name": "cosmos",
+  "version": "1.0.0",
+  "description": "CosmosExamples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sree",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/cosmos": "^3.3.3"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1"
+  }
+}
